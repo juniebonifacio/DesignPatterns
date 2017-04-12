@@ -1,0 +1,1 @@
+Reference: http://www.javaworld.com/article/2073352/core-java/simply-singleton.html

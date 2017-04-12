@@ -1,0 +1,4 @@
+SingletonPattern/target/.gitignore
+SingletonPattern/target/*
+SingletonPattern/.project
+SingletonPattern/.classpath
